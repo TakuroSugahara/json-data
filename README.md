@@ -6,7 +6,7 @@ Return a static file
 
 ```sample.json
 {
-  application: 'sample-api',
+  application: sample-api
   version: 1.0.0
 }
 ```
